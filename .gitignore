@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ProjetoAppSenac/.vs/ProjetoAppSenac/v15
+/ProjetoAppSenac/ProjetoAppSenac/ProjetoAppSenac/obj
+/ProjetoAppSenac/ProjetoAppSenac/ProjetoAppSenac.Android/obj
+/ProjetoAppSenac/ProjetoAppSenac/ProjetoAppSenac.iOS/obj
+/ProjetoAppSenac/ProjetoAppSenac/ProjetoAppSenac.UWP/obj
